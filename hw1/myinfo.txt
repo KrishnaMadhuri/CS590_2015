@@ -1,0 +1,11 @@
+Sat May 30 19:02:12 CDT 2015
+---------------------------
+System name: lightning
+User information:
+full name: Krishnamadhuri  Paramkusem
+log name: kp0042
+uid: 1504
+gid: 210
+HOME dir: /home/csuser/kp0042
+Default shell: /bin/bash
+-------------------------------
