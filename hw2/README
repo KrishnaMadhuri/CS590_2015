@@ -1,0 +1,15 @@
+The date utility program displays the current date in the desired format.
+Modifications made:
+I have modified the current default date by adding wishes to the user.
+And i also created an additional option -c to the date command, which displays wishes to the logged in user and also displays the full weekday to the user.
+This additional option -c has been also added in the man pages for date command.
+
+date
+Hi 
+student
+Sun Jun  7 12:55:38 PDT 2015
+
+date -c
+Hi 
+student
+It's Sunday ! 06-07-15
